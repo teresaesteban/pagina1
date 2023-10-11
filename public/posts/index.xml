@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wild Trails</title>
+    <link>https://example.org/posts/</link>
+    <description>Recent content on Wild Trails</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 04 Oct 2023 18:37:24 +0200</lastBuildDate><atom:link href="https://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Historia: &#34;Travesía por los Valles de Ordesa y Bujaruelo</title>
+      <link>https://example.org/posts/segundo_post/</link>
+      <pubDate>Tue, 03 Oct 2023 18:56:59 +0200</pubDate>
+      
+      <guid>https://example.org/posts/segundo_post/</guid>
+      <description>Autor: Carlos Rodríguez
+Descripción: Carlos narra su travesía a través de los hermosos valles de Ordesa y Bujaruelo. Desde la majestuosa cascada de la Cola de Caballo hasta los tranquilos lagos de Bujaruelo, su viaje estuvo lleno de asombro y descubrimiento.
+Leer la historia completa</description>
+    </item>
+    
+    <item>
+      <title>Historia: &#34;Ascenso a la Cima del Aneto</title>
+      <link>https://example.org/posts/primer_post/</link>
+      <pubDate>Tue, 03 Oct 2023 18:56:35 +0200</pubDate>
+      
+      <guid>https://example.org/posts/primer_post/</guid>
+      <description>Autor: María Pérez
+Descripción: María comparte su increíble experiencia al ascender al pico más alto del Pirineo, el Aneto. Acompañada de un pequeño grupo de amigos, enfrentaron desafíos y emociones inolvidables durante la travesía.
+Leer la historia completa</description>
+    </item>
+    
+  </channel>
+</rss>

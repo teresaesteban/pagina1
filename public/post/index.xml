@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wild Trails</title>
+    <link>https://example.org/post/</link>
+    <description>Recent content on Wild Trails</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 03 Oct 2023 18:52:37 +0200</lastBuildDate><atom:link href="https://example.org/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Parque Nacional de Bujaruelo</title>
+      <link>https://example.org/post/segundo/</link>
+      <pubDate>Thu, 05 Oct 2023 17:06:04 +0200</pubDate>
+      
+      <guid>https://example.org/post/segundo/</guid>
+      <description> Ruta de los Lagos de Bujaruelo Nivel de Dificultad: Moderado
+Distancia: 12 km (ida y vuelta)
+Descripción: La ruta de los Lagos de Bujaruelo te llevará a través de hermosos paisajes de montaña y te permitirá visitar varios lagos alpinos. Es una experiencia inolvidable en el corazón de Bujaruelo.
+Consejos:
+Lleva ropa adecuada para el clima de alta montaña. Respeta la flora y fauna locales. </description>
+    </item>
+    
+    <item>
+      <title>Parque Nacional de Ordesa</title>
+      <link>https://example.org/post/primer/</link>
+      <pubDate>Thu, 05 Oct 2023 17:06:01 +0200</pubDate>
+      
+      <guid>https://example.org/post/primer/</guid>
+      <description> Ruta de la Cola de Caballo Nivel de Dificultad: Moderado
+Distancia: 16 km (ida y vuelta)
+Descripción: La ruta de la Cola de Caballo es una de las más emblemáticas de Ordesa. Te llevará a través de un espectacular desfiladero y te permitirá disfrutar de las impresionantes vistas de la cascada de la Cola de Caballo.
+Consejos:
+Lleva suficiente agua y comida. Comienza temprano para evitar multitudes. </description>
+    </item>
+    
+  </channel>
+</rss>

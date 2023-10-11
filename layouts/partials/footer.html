@@ -1,0 +1,18 @@
+<footer class="footer">
+	<div class="container footer__container flex">
+		{{ partial "footer_links.html" . }}
+		<div class="footer__copyright">
+			&copy; {{ now.Format "2006" }} {{ .Site.Params.copyright | default .Site.Title }}.
+			<span class="footer__copyright-credits">{{ T "footer_credits" | safeHTML }}</span>
+		</div>
+		<!-- Agregar un widget de redes sociales -->
+		<div class="social-widget">
+			<h3>Síguenos en las redes sociales</h3>
+			<ul class="social-links">
+				<li><a href="https://twitter.com" target="_blank">Twitter</a></li>
+				<li><a href="https://facebook.com" target="_blank">Facebook</a></li>
+				<!-- Agrega más enlaces a tus redes sociales aquí -->
+			</ul>
+		</div>
+	</div>
+</footer>

@@ -1,0 +1,34 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'Wild Trails'
+theme='Mainroad'
+
+[menu]
+ [[menu.main]]
+    identifier = "blog"
+    name = "Equipo Recomendado"
+    title = "Equipo Recomendado"
+    url = "/blog/"
+    weight = 0
+  [[menu.main]]
+    identifier = "about"
+    name = "Rutas de Senderismo"
+    title = "Rutas de Senderismo"
+    url = "/post/"
+    weight = 0
+  [[menu.main]]
+    identifier = "posts"
+    name = "Historias Wild"
+    title = "Historias Wild"
+    url = "/posts/"
+    weight = 0
+[Params]
+  customCSS = ["../css/estilos.css"]
+  description = "WildTrails" # Description of your site
+  opengraph = true
+  twitter_cards = false
+  readmore = false # Show "Read more" button in list if true
+  authorbox = true
+  pager = true
+  post_meta = ["date", "categories"] # Order of post meta information
+  mainSections = []
